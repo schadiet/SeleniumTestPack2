@@ -1,0 +1,115 @@
+1592511927989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileYbx3Qd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592511930269	Marionette	INFO	Listening on port 58955
+1592511930616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511993543	Marionette	INFO	Stopped listening on port 58955
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofile2CO4sH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592511940496	Marionette	INFO	Listening on port 59021
+1592511940833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511991999	Marionette	INFO	Stopped listening on port 59021
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileRKSF3E"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592511950649	Marionette	INFO	Listening on port 59084
+1592511950994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511989510	Marionette	INFO	Stopped listening on port 59084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592511961012	Marionette	INFO	Listening on port 59145
+1592511961196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511987211	Marionette	INFO	Stopped listening on port 59145
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592512093025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileql5lZK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512095284	Marionette	INFO	Listening on port 59357
+1592512095652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592512112143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileACl6bF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512114462	Marionette	INFO	Listening on port 59456
+1592512114765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592512132453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileaSQA92"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512134768	Marionette	INFO	Listening on port 59554
+1592512135071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/components/requirejs/require.js, line 168: Error: Script error for "moment-url/de"
+http://requirejs.org/docs/errors.html#scripterror
+1592512176962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileJUjM18"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512179224	Marionette	INFO	Listening on port 59789
+1592512179577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/components/requirejs/require.js, line 168: Error: Script error for "moment-url/de"
+http://requirejs.org/docs/errors.html#scripterror
+1592512233738	Marionette	INFO	Stopped listening on port 59789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592512397248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileboxEgo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512399583	Marionette	INFO	Listening on port 60033
+1592512399888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/++unique++2020-06-01%2012%3A59%3A10.842290/plone-compiled.min.js, line 1: TypeError: require is not a function
+1592512403795	Marionette	INFO	Stopped listening on port 60033
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592512424171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofileTSq0MF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512426731	Marionette	INFO	Listening on port 60140
+1592512426794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592512429074	Marionette	INFO	Stopped listening on port 60140
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592512450774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofiler1FkYz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512453174	Marionette	INFO	Listening on port 60275
+1592512453400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/components/requirejs/require.js, line 168: Error: Script error for "moment-url/de"
+http://requirejs.org/docs/errors.html#scripterror
+1592512457047	Marionette	INFO	Stopped listening on port 60275
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592512483793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\neoli\\AppData\\Local\\Temp\\rust_mozprofilewdTxHZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592512486095	Marionette	INFO	Listening on port 60393
+1592512486418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://seleniumkurs.codingsolo.de/++plone++static/components/requirejs/require.js, line 168: Error: Script error for "moment-url/de"
+http://requirejs.org/docs/errors.html#scripterror
+1592512492430	Marionette	INFO	Stopped listening on port 60393
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
